@@ -4,6 +4,8 @@
 
 This is a digital clock application built using Python and Tkinter. It displays the current time in a digital format with hours, minutes, and seconds.
 
+![d-c](https://github.com/chaitanya527/Digital-Clock/assets/108619990/eb75a57b-64c9-4a33-b096-e79fc479066a)
+
 
 
 
